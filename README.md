@@ -1,5 +1,5 @@
 # Win10AutoInstallApps
-Script for auto install softwares using Choco
+Script for auto install softwares using [Chocolatey](http://chocolatey.org/)
 
 # Usage
 After download execute the following command on Win10AutoInstallApps folder : 
