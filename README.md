@@ -5,4 +5,4 @@ Script for auto install softwares using [Chocolatey](http://chocolatey.org/)
 After download execute the following command on Win10AutoInstallApps folder : 
 > Powershell.exe -ExecutionPolicy Bypass -File .\InstallApps.ops1
 
-Obs: the above command must be run in an administrative PowerShell session
+the above command must be run in an administrative PowerShell session
